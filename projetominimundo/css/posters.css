@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient( black, rgb(48, 16, 16));
+}
+
+.img{
+    width: 200%;
+    height: 200%;
+
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    left: 150px;
+    top:280px;
+    border-radius: 4px;
+}
+
+
+h1{
+    color: #db040f;
+}
+
+
+
+
+
+.title{
+    left: 150px;
+    text-align: center;
+}
